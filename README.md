@@ -3,6 +3,11 @@
 Nuffco is a made-up company to give a demo for this application stack. It is
 mobile friendly with a responsive and modern design.
 
+## Payload
+
+This was built to work with [Payload](https://payloadcms.com) but you can do
+whatever you like.
+
 ## Getting Started
 
 First install deps, then run the development server:
